@@ -1,0 +1,7 @@
+{
+  "name": "CalendarSubscriptionApp",
+  "displayName": "Calout",
+  "expo" :{
+    "androidStatusBar" : "#611f69"
+  }
+}
